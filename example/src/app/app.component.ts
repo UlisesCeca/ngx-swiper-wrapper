@@ -1,7 +1,7 @@
 import { Component, ViewChild } from '@angular/core';
 
 import { SwiperComponent, SwiperDirective, SwiperConfigInterface,
-  SwiperScrollbarInterface, SwiperPaginationInterface } from 'ngx-swiper-wrapper';
+  SwiperScrollbarInterface, SwiperPaginationInterface } from 'ulises-ionic-angular-swipper-temp';
 
 @Component({
   selector: 'my-app',

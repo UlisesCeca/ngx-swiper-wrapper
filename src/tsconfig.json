@@ -12,8 +12,8 @@
     "annotateForClosureCompiler": true,
     "enableResourceInlining": true,
     "fullTemplateTypeCheck": true,
-    "flatModuleId": "ulises-ionic-angular-swipper",
-    "flatModuleOutFile": "ulises-ionic-angular-swipper.js",
+    "flatModuleId": "ulises-ionic-angular-swipper-temp",
+    "flatModuleOutFile": "ulises-ionic-angular-swipper-temp.js",
     "skipTemplateCodegen": true,
     "strictInjectionParameters": true,
     "strictMetadataEmit": true

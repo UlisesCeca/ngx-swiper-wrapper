@@ -1,16 +1,16 @@
 # Angular Swiper Wrapper
 
-<a href="https://badge.fury.io/js/ngx-swiper-wrapper"><img src="https://badge.fury.io/js/ngx-swiper-wrapper.svg" align="right" alt="npm version" height="18"></a>
+<a href="https://badge.fury.io/js/ulises-ionic-angular-swipper-temp"><img src="https://badge.fury.io/js/ulises-ionic-angular-swipper-temp.svg" align="right" alt="npm version" height="18"></a>
 
 This is an Angular wrapper library for the [Swiper](http://idangero.us/swiper/). To use this library you should get familiar with the Swiper documentation as well since this documentation only explains details specific to this wrapper.
 
-This documentation is for the latest 6.x.x version which requires Angular 5 or newer. For Angular 4 you need to use the latest 4.x.x version. Documentation for the 4.x.x can be found from <a href="https://github.com/zefoy/ngx-swiper-wrapper/tree/4.x.x/">here</a>.
+This documentation is for the latest 6.x.x version which requires Angular 5 or newer. For Angular 4 you need to use the latest 4.x.x version. Documentation for the 4.x.x can be found from <a href="https://github.com/zefoy/ulises-ionic-angular-swipper-temp/tree/4.x.x/">here</a>.
 
 ### Quick links
 
-[Example application](https://zefoy.github.io/ngx-swiper-wrapper/)
+[Example application](https://zefoy.github.io/ulises-ionic-angular-swipper-temp/)
  |
-[StackBlitz example](https://stackblitz.com/github/zefoy/ngx-swiper-wrapper/tree/master/example)
+[StackBlitz example](https://stackblitz.com/github/zefoy/ulises-ionic-angular-swipper-temp/tree/master/example)
  |
 [Swiper documentation](http://idangero.us/swiper/api/)
 
@@ -34,13 +34,13 @@ npm start
 ```bash
 npm link
 cd example
-npm link ngx-swiper-wrapper
+npm link ulises-ionic-angular-swipper-temp
 ```
 
 ### Installing and usage
 
 ```bash
-npm install ngx-swiper-wrapper --save
+npm install ulises-ionic-angular-swipper-temp --save
 ```
 
 ##### Load the module for your app (with global configuration):
@@ -48,9 +48,9 @@ npm install ngx-swiper-wrapper --save
 Providing the global configuration is optional and when used you should only provide the configuration in your root module.
 
 ```javascript
-import { SwiperModule } from 'ngx-swiper-wrapper';
-import { SWIPER_CONFIG } from 'ngx-swiper-wrapper';
-import { SwiperConfigInterface } from 'ngx-swiper-wrapper';
+import { SwiperModule } from 'ulises-ionic-angular-swipper-temp';
+import { SWIPER_CONFIG } from 'ulises-ionic-angular-swipper-temp';
+import { SwiperConfigInterface } from 'ulises-ionic-angular-swipper-temp';
 
 const DEFAULT_SWIPER_CONFIG: SwiperConfigInterface = {
   direction: 'horizontal',

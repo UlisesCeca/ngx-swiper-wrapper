@@ -38,7 +38,7 @@
       'ts': 'npm:plugin-typescript/lib/plugin.js',
       'typescript': 'npm:typescript/lib/typescript.js',
       'swiper': 'npm:swiper',
-      'ngx-swiper-wrapper': 'npm:ngx-swiper-wrapper/bundles/ngx-swiper-wrapper.umd.js'
+      'ulises-ionic-angular-swipper-temp': 'npm:ulises-ionic-angular-swipper-temp/bundles/ulises-ionic-angular-swipper-temp.umd.js'
     },
     packages: {
       'app': {
