@@ -1,5 +1,5 @@
 {
-  "name": "ngx-swiper-wrapper",
+  "name": "ulises-ionic-angular-swipper",
   "description": "Angular wrapper library for Swiper",
   "bugs": "https://github.com/zefoy/ngx-swiper-wrapper/issues",
   "license": "MIT",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zefoy/ngx-swiper-wrapper.git"
+    "url": "https://github.com/UlisesCeca/ngx-swiper-wrapper.git"
   },
   "dependencies": {
     "swiper": "^4.3.0"

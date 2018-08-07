@@ -12,8 +12,8 @@
     "annotateForClosureCompiler": true,
     "enableResourceInlining": true,
     "fullTemplateTypeCheck": true,
-    "flatModuleId": "ngx-swiper-wrapper",
-    "flatModuleOutFile": "ngx-swiper-wrapper.js",
+    "flatModuleId": "ulises-ionic-angular-swipper",
+    "flatModuleOutFile": "ulises-ionic-angular-swipper.js",
     "skipTemplateCodegen": true,
     "strictInjectionParameters": true,
     "strictMetadataEmit": true
