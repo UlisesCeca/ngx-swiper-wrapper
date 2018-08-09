@@ -5,7 +5,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FlexLayoutModule } from '@angular/flex-layout';
 
 import { SwiperModule, SwiperConfigInterface,
-  SWIPER_CONFIG } from 'ulises-ionic-angular-swipper-temp';
+  SWIPER_CONFIG } from 'ulises-ionic-angular-swipper';
 
 import { AppComponent } from './app.component';
 

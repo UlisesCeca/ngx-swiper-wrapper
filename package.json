@@ -1,12 +1,12 @@
 {
-  "name": "ulises-ionic-angular-swipper-temp",
+  "name": "ulises-ionic-angular-swipper",
   "description": "Angular wrapper library for Swiper",
-  "bugs": "https://github.com/zefoy/ulises-ionic-angular-swipper-temp/issues",
+  "bugs": "https://github.com/zefoy/ulises-ionic-angular-swipper/issues",
   "license": "MIT",
-  "version": "6.3.0",
-  "main": "./bundles/ulises-ionic-angular-swipper-temp.umd.js",
-  "module": "./dist/ulises-ionic-angular-swipper-temp.es5.js",
-  "typings": "./dist/ulises-ionic-angular-swipper-temp.d.ts",
+  "version": "8.0.0",
+  "main": "./bundles/ulises-ionic-angular-swipper.umd.js",
+  "module": "./dist/ulises-ionic-angular-swipper.es5.js",
+  "typings": "./dist/ulises-ionic-angular-swipper.d.ts",
   "tslint": {
     "extends": "./tslint.json"
   },
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/UlisesCeca/ulises-ionic-angular-swipper-temp.git"
+    "url": "https://github.com/UlisesCeca/ulises-ionic-angular-swipper.git"
   },
   "dependencies": {
     "swiper": "^4.3.0"

@@ -24,7 +24,7 @@ module.exports = {
     filename: '[name].js',
     sourceMapFilename: '[name].css.map',
     path: path.join(__dirname, '../dist'),
-    publicPath: 'https://zefoy.github.io/ulises-ionic-angular-swipper-temp/'
+    publicPath: 'https://zefoy.github.io/ulises-ionic-angular-swipper/'
   },
   module: {
     rules: [

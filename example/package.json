@@ -1,6 +1,6 @@
 {
-  "name": "ulises-ionic-angular-swipper-temp-example",
-  "description": "Example app for the ulises-ionic-angular-swipper-temp",
+  "name": "ulises-ionic-angular-swipper-example",
+  "description": "Example app for the ulises-ionic-angular-swipper",
   "private": true,
   "license": "MIT",
   "version": "6.0.0",
@@ -25,7 +25,7 @@
   },
   "config": {
     "deployToGit": {
-      "repository": "git@github.com:zefoy/ulises-ionic-angular-swipper-temp.git",
+      "repository": "git@github.com:zefoy/ulises-ionic-angular-swipper.git",
       "branch": "gh-pages",
       "folder": "dist",
       "script": "npm run build",
@@ -45,7 +45,7 @@
     "@angular/platform-browser": "^6.0.0",
     "@angular/platform-browser-dynamic": "^6.0.0",
     "core-js": "^2.5.0",
-    "ulises-ionic-angular-swipper-temp": "^6.0.0",
+    "ulises-ionic-angular-swipper": "^6.0.0",
     "rxjs": "^6.2.0",
     "swiper": "^4.3.0",
     "zone.js": "^0.8.0"
